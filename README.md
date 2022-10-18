@@ -1,7 +1,7 @@
 # kodluyoruzilkerpo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-![GİTHUB](github.png)
+![GİTHUB](kodluyoruzilkrepo/github.png)
 
 ## Installation
 öncelikle projeyi clonelayın (buraya sizin reponuzdan aldığınız link gelecek)
@@ -16,7 +16,7 @@ linux için:
 
 '''linux
 cd kodluyoruzilkrepo
-code .
+code .S
 '''
 ## contributing 
 pull requestler kabul edilir.Büyük değişiklikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
